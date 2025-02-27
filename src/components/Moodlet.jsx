@@ -10,9 +10,9 @@ const states = {
 };
 
 const Moodlet = ({ label }) => {
-  const [state, setState] = useState(states.REQUIRED); // 💡 Ensure all moodlets start as REQUIRED (Red)
+  const [state, setState] = useState(states.REQUIRED); // Ensures all moodlets start as REQUIRED (Red)
 
-  // ✅ Left Click: Cycle between Required → Current → Completed → Current
+  // Left Click: Cycle between Required → Current → Completed → Current
   const handleLeftClick = () => {
     if (state === states.REQUIRED) {
       setState(states.CURRENT);
@@ -23,7 +23,7 @@ const Moodlet = ({ label }) => {
     }
   };
 
-  // ✅ Right Click: Toggle between Not Required (Gray) ↔ Required (Red)
+  // Right Click: Toggle between Not Required (Gray) ↔ Required (Red)
   const handleRightClick = (e) => {
     e.preventDefault();
     if (state === states.NOT_REQUIRED) {

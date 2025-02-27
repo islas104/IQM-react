@@ -1,4 +1,4 @@
-# 🚀 IQM React - FSC Moodlet & Status Dropdown
+# IQM React - FSC Moodlet & Status Dropdown
 
 This is a React component test for **IQM Software**, implementing:
 
@@ -9,19 +9,17 @@ This is a React component test for **IQM Software**, implementing:
 
 ## 🌟 Features
 
-✅ Fully functional **FSC Moodlet component**  
-✅ Implements required **moodlet logic**  
-✅ Dynamic **dropdown selection**  
-✅ Responsive **UI matches the Figma design**  
-✅ Built using **React + Vite** for fast performance
-
----
+Fully functional **FSC Moodlet component**  
+Implements required **moodlet logic**  
+Dynamic **dropdown selection**  
+Responsive **UI matches the Figma design**  
+Built using **React + Vite** for fast performance
 
 ## 📂 Folder Structure
 
-📦 iqm-react ┣ 📂 src ┃ ┣ 📂 components ┃ ┃ ┣ 📜 FSCMoodlets.jsx ┃ ┃ ┣ 📜 Moodlet.jsx ┃ ┃ ┣ 📜 StatusDropdown.jsx ┃ ┣ 📂 styles ┃ ┃ ┣ 📜 moodlet.css ┃ ┃ ┣ 📜 dropdown.css ┃ ┣ 📜 App.jsx ┃ ┣ 📜 main.jsx ┣ 📜 README.md ┣ 📜 package.json ┣ 📜 vite.config.js
+iqm-react ┣ src ┃ ┣ components ┃ ┃ ┣ FSCMoodlets.jsx ┃ ┃ ┣ Moodlet.jsx ┃ ┃ ┣ StatusDropdown.jsx ┃ ┣  styles ┃ ┃ ┣  moodlet.css ┃ ┃ ┣  dropdown.css ┃ ┣ App.jsx ┃ ┣  main.jsx ┣ README.md ┣  package.json ┣ vite.config.js
 
-## 🎯 How to Run the Project
+## How to Run the Project
 
 ### **1️ Clone the Repository**
 

@@ -6,7 +6,7 @@ const StatusDropdown = ({ options }) => {
   const [selected, setSelected] = useState(options[0]);
   const [isOpen, setIsOpen] = useState(false);
 
-  // ✅ Handles selection and closes the dropdown
+  // Handles selection and closes the dropdown
   const handleSelect = (option) => {
     setSelected(option);
     setIsOpen(false);

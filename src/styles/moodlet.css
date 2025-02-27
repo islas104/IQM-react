@@ -13,13 +13,12 @@
     font-family: "Arial", sans-serif;
   }
   
-  /* ✅ Corrected Figma Colors */
   .required { background-color: #E63946; color: white; } /* Red */
   .current { background-color: #F4A261; color: white; } /* Orange */
   .completed { background-color: #2A9D8F; color: white; } /* Teal */
   .not-required { background-color: #D1D5DB; color: black; } /* Gray */
   
-  /* ✅ Hover Effect */
+  /* Hover Effect */
   .moodlet:hover {
     transform: scale(1.05);
   }
