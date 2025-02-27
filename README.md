@@ -17,7 +17,7 @@ Built using **React + Vite** for fast performance
 
 ## 📂 Folder Structure
 
-iqm-react ┣ src ┃ ┣ components ┃ ┃ ┣ FSCMoodlets.jsx ┃ ┃ ┣ Moodlet.jsx ┃ ┃ ┣ StatusDropdown.jsx ┃ ┣ styles ┃ ┃ ┣ moodlet.css ┃ ┃ ┣ dropdown.css ┃ ┣ App.jsx ┃ ┣ main.jsx ┣ README.md ┣ package.json ┣ vite.config.js
+iqm-react ┣ src ┃ ┣ components ┃ ┃ ┣ FSCMoodlets.jsx ┃ ┃ ┣ Moodlet.jsx ┃ ┃ ┣ Dropdown.jsx ┃ ┣ styles ┃ ┃ ┣ moodlet.css ┃ ┃ ┣ dropdown.css ┃ ┣ App.jsx ┃ ┣ main.jsx ┣ README.md ┣ package.json ┣ vite.config.js
 
 ## How to Run the Project
 
