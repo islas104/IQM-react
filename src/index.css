@@ -1,0 +1,15 @@
+.moodlet {
+    padding: 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    user-select: none;
+  }
+  
+  .required { background-color: blue; }
+  .current { background-color: red; }
+  .completed { background-color: green; }
+  .not_required { background-color: gray; }
+  
