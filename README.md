@@ -17,7 +17,7 @@ Built using **React + Vite** for fast performance
 
 ## 📂 Folder Structure
 
-iqm-react ┣ src ┃ ┣ components ┃ ┃ ┣ FSCMoodlets.jsx ┃ ┃ ┣ Moodlet.jsx ┃ ┃ ┣ StatusDropdown.jsx ┃ ┣  styles ┃ ┃ ┣  moodlet.css ┃ ┃ ┣  dropdown.css ┃ ┣ App.jsx ┃ ┣  main.jsx ┣ README.md ┣  package.json ┣ vite.config.js
+iqm-react ┣ src ┃ ┣ components ┃ ┃ ┣ FSCMoodlets.jsx ┃ ┃ ┣ Moodlet.jsx ┃ ┃ ┣ StatusDropdown.jsx ┃ ┣ styles ┃ ┃ ┣ moodlet.css ┃ ┃ ┣ dropdown.css ┃ ┣ App.jsx ┃ ┣ main.jsx ┣ README.md ┣ package.json ┣ vite.config.js
 
 ## How to Run the Project
 
@@ -37,7 +37,7 @@ npm install
 ### **3 Start the Dev Server**
 
 ```sh
-npm install
+npm run dev
 ```
 
 Then open: http://localhost:5173/
